@@ -1,0 +1,21 @@
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgb(231, 200, 200);
+
+}
+#AbCon{
+    color: red;
+    padding: 2rem;
+    text-align: center;
+    margin: 0px;
+    font-size: 35px;
+
+}
+
+#AbCon1{
+    color: white;
+    margin: 0;
+    text-align: center;
+    font-size: 25px ;
+    
+}
